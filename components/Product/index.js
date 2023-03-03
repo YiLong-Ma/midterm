@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Product from "@/components/Product";
 import { useState } from "react";
 import { list } from "@/data/list";
 
